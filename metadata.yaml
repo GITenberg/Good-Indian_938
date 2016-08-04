@@ -1,0 +1,33 @@
+_repo: Good-Indian_938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Wild-at-heart cowboy Grant Imsen has never taken a liking to big city
+  life or civilization as a whole, for that matter. But when he meets Evadna Ramsey,
+  a genteel visitor from New Jersey, everything changes in the blink of an eye. Is
+  there any hope for this diametrically opposed duo to live happily ever after?
+gutenberg_bookshelf: Western
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Idaho -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: Good Indian
+url: http://www.gutenberg.org/ebooks/938
